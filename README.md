@@ -5,3 +5,5 @@ Olá, me chamo Paulo Gabriel, sou Analista de Dados e Farmacêutico, trabalho co
 Vamos nos conectar?
 
 LinkedIn: https://www.linkedin.com/in/paulopggomes/
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
