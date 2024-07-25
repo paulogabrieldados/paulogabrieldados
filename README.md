@@ -8,7 +8,5 @@ LinkedIn: https://www.linkedin.com/in/paulopggomes/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulogabrieldados&show_icons=true&theme=dracula)
 
-            <i class="devicon-python-plain"></i>
-          
-            <i class="devicon-azuresqldatabase-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
