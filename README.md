@@ -6,3 +6,4 @@ Vamos nos conectar?
 
 LinkedIn: https://www.linkedin.com/in/paulopggomes/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulogabrieldados)](https://github.com/anuraghazra/github-readme-stats)
