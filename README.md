@@ -1,6 +1,8 @@
 ## Olá 👋
 
-Olá, me chamo Paulo Gabriel, sou Analista de Dados e Farmacêutico, trabalho com Gestão e Análise de Dados a 6 anos.
+Sou Paulo Gabriel
+Sou Analista de Dados e Farmacêutico, trabalho com Gestão e Análise de Dados a 6 anos.
+Lean Seis Sigma GreenBelt.
 
 Vamos nos conectar?
 
