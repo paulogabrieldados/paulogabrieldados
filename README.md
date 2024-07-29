@@ -4,13 +4,14 @@ Olá, me chamo Paulo Gabriel, sou Analista de Dados e Farmacêutico, trabalho co
 
 Vamos nos conectar?
 
-LinkedIn: https://www.linkedin.com/in/paulopggomes/
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulopggomes/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulogabrieldados&show_icons=true&theme=dracula)
 
-
-  <img align= "center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  
-  <img align= "center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
+##Tecnologias que eu uso no meu dia
+<div style= "diplay inline_block"><br/>
+	<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	<img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+	<img align="center" alt= "pbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+</div>        
 
