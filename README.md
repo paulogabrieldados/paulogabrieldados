@@ -1,6 +1,8 @@
 ## Olá 👋
 
-Meu nome é Paulo Gabriel. Sou Analista de Dados e Farmacêutico, com 6 anos de experiência em Gestão e Análise de Dados. Também sou certificado como Lean Seis Sigma GreenBelt.
+Meu nome é Paulo Gabriel. 
+Sou Analista de Dados e Farmacêutico, com 6 anos de experiência em Gestão e Análise de Dados.
+Lean Seis Sigma GreenBelt.
 
 Vamos nos conectar?
 
